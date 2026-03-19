@@ -303,3 +303,11 @@
    skos:notation "Afgehandeld"@nl ;
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
+   
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/VoorwaardelijkGoedgekeurd>
+   a skos:Concept ;
+   skos:prefLabel "Voorwaardelijk goedgekeurd"@nl ;
+   skos:definition "De behandelende overheid heeft dossier goedgekeurd, dit gekoppeld aan specifieke voorwaarden."@nl ;
+   skos:notation "Voorwaardelijk goedgekeurd"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .

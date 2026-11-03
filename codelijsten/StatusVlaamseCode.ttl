@@ -120,6 +120,14 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Verzaakt>
+   a skos:Concept ;
+   skos:prefLabel "Verzaakt"@nl ;
+   skos:definition "De vergunninghouder of houder van de meldingsakte heeft gemeld afstand te doen van de rechten uit de vergunning of meldingsakte. Deze status duidt op verzaking door de houder en niet op intrekking of vernietiging door een overheid of rechter."@nl ;
+   skos:notation "Verzaakt"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
+
 <https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Geinitieerd>
    a skos:Concept ;
    skos:prefLabel "Ge�nitieerd"@nl ;

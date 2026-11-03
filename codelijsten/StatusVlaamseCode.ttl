@@ -120,9 +120,17 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Verzaakt>
+   a skos:Concept ;
+   skos:prefLabel "Verzaakt"@nl ;
+   skos:definition "De vergunninghouder of houder van de meldingsakte heeft gemeld afstand te doen van de rechten uit de vergunning of meldingsakte. Deze status duidt op verzaking door de houder en niet op intrekking of vernietiging door een overheid of rechter."@nl ;
+   skos:notation "Verzaakt"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
+
 <https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Geinitieerd>
    a skos:Concept ;
-   skos:prefLabel "Ge�nitieerd"@nl ;
+   skos:prefLabel "Geïnitieerd"@nl ;
    skos:definition "De aanvrager van een dossier heeft de intentie of interesse duidelijk gemaakt aan de behandelende overheid om een dossier te willen indienen maar heeft dit nog niet formeel gedaan."@nl ;
    skos:notation "Geinitieerd"@nl ;
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
@@ -309,5 +317,11 @@
    skos:prefLabel "Voorwaardelijk goedgekeurd"@nl ;
    skos:definition "De behandelende overheid heeft dossier goedgekeurd, dit gekoppeld aan specifieke voorwaarden."@nl ;
    skos:notation "Voorwaardelijk goedgekeurd"@nl ;
+
+   <https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Verworpen>
+   a skos:Concept ;
+   skos:prefLabel "Verworpen"@nl ;
+   skos:definition "Een inhoudelijke afwijzing van een ontvankelijk dossierstuk."@nl ;
+   skos:notation "Verworpen"@nl ;
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .

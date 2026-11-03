@@ -130,7 +130,7 @@
 
 <https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Geinitieerd>
    a skos:Concept ;
-   skos:prefLabel "Ge�nitieerd"@nl ;
+   skos:prefLabel "Geïnitieerd"@nl ;
    skos:definition "De aanvrager van een dossier heeft de intentie of interesse duidelijk gemaakt aan de behandelende overheid om een dossier te willen indienen maar heeft dit nog niet formeel gedaan."@nl ;
    skos:notation "Geinitieerd"@nl ;
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
